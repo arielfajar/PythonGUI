@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # In[ ]:
 
 
@@ -75,8 +72,6 @@ btn.grid(column=0, row=6)
 
 window.mainloop()
 
-
-# In[ ]:
 
 
 
